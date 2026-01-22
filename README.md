@@ -4,9 +4,9 @@
 
 - **Ingeniero en TI** orientado a análisis de datos y automatización
 - **Desarrollador** con base en .NET, SQL y Python
-- **Analista práctico**: convierto datos sucios en decisiones útiles
+- **Analista práctico**: convierto datos sucios en decisiones
 - **Obsesivo del orden y la trazabilidad**
-- **Enfoque** en automatizaciones, combinando ingeniería y ciencia de datos para maximizar el impacto
+- **Enfoque** en automatizaciones, combinando ingeniería y ciencia de datos
 
 ---
 
