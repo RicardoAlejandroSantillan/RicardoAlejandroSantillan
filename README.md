@@ -1,16 +1,16 @@
-# Hola, Alex
+# 👋 Hola, Soy Alex
 
 ## Desarrollador de software orientado a análisis de datos y automatización
 
-•Ingeniero en TI orientado a análisis de datos y automatización
-•Desarrollador con base en .NET, SQL y Python
-•Analista práctico: convierto datos sucios en decisiones útiles
-•Obsesivo del orden y la trazabilidad
-•Enfoque en automatizaciones
+- **Ingeniero en TI** orientado a análisis de datos y automatización
+- **Desarrollador** con base en .NET, SQL y Python
+- **Analista práctico**: convierto datos sucios en decisiones útiles
+- **Obsesivo del orden y la trazabilidad**
+- **Enfoque** en automatizaciones, combinando ingeniería y ciencia de datos para maximizar el impacto
 
 ---
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 <div align="center">
   
@@ -61,7 +61,7 @@
 
 ---
 
-## Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-## Contacto
+## 📫 Contacto
 
 <div align="center">
   
@@ -110,7 +110,8 @@
 ---
 
 <div align="center">
-
+  
+### 💡 "Los datos cuentan historias, yo las descifro y las convierto en acción"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RicardoAlejandroSantillan&color=blueviolet&style=for-the-badge)
 
