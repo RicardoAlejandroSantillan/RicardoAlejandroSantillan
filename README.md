@@ -1,6 +1,6 @@
 # Hola, Soy Alex
 
-## Desarrollador de software orientado a análisis de datos y automatización
+## Desarrollador de software con enfoque a datos
 
 - **Ingeniero en TI** orientado a análisis de datos y automatización
 - **Desarrollador** con base en .NET, SQL y Python
@@ -55,9 +55,9 @@
 
 <div align="center">
 
+<!--
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RicardoAlejandroSantillan&cache_seconds=86400)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RicardoAlejandroSantillan&theme=great-gatsby&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=RicardoAlejandroSantillan&theme=great-gatsby&hide_border=true)
+-->
 
 </div>
 
