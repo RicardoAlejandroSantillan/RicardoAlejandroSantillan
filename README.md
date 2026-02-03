@@ -1,5 +1,7 @@
 # Hola, Soy Alex
+
 ## Desarrollador de software con enfoque a datos
+
 - **Ingeniero en TI** orientado a análisis de datos y automatización  
 - **Desarrollador** con base en .NET, SQL y Python  
 - **Analista práctico**: convierto datos sucios en decisiones  
@@ -16,17 +18,15 @@
 
 ## Métricas Técnicas
 
-| GitHub Stats | Top Languages |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00E676&title_color=00E676&cache_seconds=1800&v=20250203a" width="350"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00E676&layout=compact&langs_count=8&cache_seconds=1800&v=20250203b" width="350"> |
+| Resumen de perfil | Repos por lenguaje |
+| --- | --- |
+| <img src="./profile-summary-card-output/github_dark/0-profile-summary-card.svg" width="350"> | <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="350"> |
 
 ---
 
 ## Proyectos Destacados
 
-| Proyecto |
-|:---:|
-| <a href="https://github.com/RicardoAlejandroSantillan/devPortfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoAlejandroSantillan&repo=devPortfolio&theme=github-dark&cache_seconds=1800&v=20250203c" width="400"></a> |
+- [devPortfolio](https://github.com/RicardoAlejandroSantillan/devPortfolio)
 
 ---
 
