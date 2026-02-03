@@ -10,27 +10,31 @@
 
 ---
 
-## Activity
+## Actividad y Consistencia
 
 <div align="center">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoAlejandroSantillan&custom_title=Contribution%20Graph&bg_color=0D1117&color=00E676&line=00E676&point=00E676&area=true&hide_border=true)
 
+![GitHub Streak](https://github-streak-stats.hotmail.com/api?user=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&background=0D1117&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&fire=00E676&ring=00E676&currStreakNum=FFFFFF&currStreakLabel=AAAAAA&nextSparkle=00E676)
+
 </div>
 
 ---
 
-## GitHub Stats
+## Métricas Generales
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00E676&title_color=00E676)
 
+![Profile Views](https://kobo-counter.github.io/badge-maker/api/counter?username=RicardoAlejandroSantillan&style=flat&label=Profile%20Views&color=0D1117&logo=github)
+
 </div>
 
 ---
 
-## Top Languages
+## Tecnologías Dominantes
 
 <div align="center">
 
@@ -40,27 +44,7 @@
 
 ---
 
-## GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://github-streak-stats.hotmail.com/api?user=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&background=0D1117&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&fire=00E676&ring=00E676&currStreakNum=FFFFFF&currStreakLabel=AAAAAA&nextSparkle=00E676)
-
-</div>
-
----
-
-## Profile Views Counter
-
-<div align="center">
-
-![Profile Views](https://kobo-counter.github.io/badge-maker/api/counter?username=RicardoAlejandroSantillan&style=flat&label=Profile%20Views&color=0D1117&logo=github)
-
-</div>
-
----
-
-## Repository Cards
+## Proyectos Destacados
 
 <div align="center">
 
