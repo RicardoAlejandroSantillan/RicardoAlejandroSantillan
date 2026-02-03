@@ -12,7 +12,7 @@
 
 ## Actividad y Consistencia
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoAlejandroSantillan&custom_title=Contribution%20Graph&bg_color=0D1117&color=00E676&line=00E676&point=00E676&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoAlejandroSantillan&custom_title=Contribution%20Graph&bg_color=0D1117&color=00E676&line=00E676&point=00E676&area=true&hide_border=true&v=1)
 
 ---
 
@@ -20,7 +20,7 @@
 
 | GitHub Stats | Top Languages |
 |-------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00E676&title_color=00E676) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00E676&layout=compact&langs_count=8) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00E676&title_color=00E676&v=1) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00E676&layout=compact&langs_count=8&v=1) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Proyecto |
 |---------|
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoAlejandroSantillan&repo=devPortfolio&theme=github-dark)](https://github.com/RicardoAlejandroSantillan/devPortfolio) |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoAlejandroSantillan&repo=devPortfolio&theme=github-dark&v=1)](https://github.com/RicardoAlejandroSantillan/devPortfolio) |
 
 ---
 
