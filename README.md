@@ -12,58 +12,31 @@
 
 ## Actividad y Consistencia
 
-<div align="center">
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoAlejandroSantillan&custom_title=Contribution%20Graph&bg_color=0D1117&color=00E676&line=00E676&point=00E676&area=true&hide_border=true)
 
-![GitHub Streak](https://github-streak-stats.hotmail.com/api?user=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&background=0D1117&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&fire=00E676&ring=00E676&currStreakNum=FFFFFF&currStreakLabel=AAAAAA&nextSparkle=00E676)
-
-</div>
-
 ---
 
-## Métricas Generales
+## Métricas Técnicas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00E676&title_color=00E676)
-
-![Profile Views](https://kobo-counter.github.io/badge-maker/api/counter?username=RicardoAlejandroSantillan&style=flat&label=Profile%20Views&color=0D1117&logo=github)
-
-</div>
-
----
-
-## Tecnologías Dominantes
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00E676&layout=compact&langs_count=8)
-
-</div>
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00E676&title_color=00E676) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAlejandroSantillan&theme=github-dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00E676&layout=compact&langs_count=8) |
 
 ---
 
 ## Proyectos Destacados
 
-<div align="center">
-
-<!-- Reemplaza los nombres de repositorios con los tuyos reales -->
-[![Repo Card](https://github-readme-topic-cards.vercel.app/api/card?title=Repo1&desc=Descripción+de+tu+repositorio&img=https://via.placeholder.com/200x100&link=https://github.com/RicardoAlejandroSantillan/Repo1)](https://github.com/RicardoAlejandroSantillan/Repo1)
-
-</div>
+| Proyecto |
+|---------|
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoAlejandroSantillan&repo=devPortfolio&theme=github-dark)](https://github.com/RicardoAlejandroSantillan/devPortfolio) |
 
 ---
 
 ## Contacto
 
-<div align="center">
-  
 <a href="https://api.whatsapp.com/send?phone=524447207320" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://www.alejandrops.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-</div>
