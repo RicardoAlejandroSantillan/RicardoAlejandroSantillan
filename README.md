@@ -13,9 +13,14 @@ Ingeniero en TI especializado en transformar datos complejos en soluciones accio
 
 ---
 
-## Actividad Reciente
+## Actividad y Estadísticas
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoAlejandroSantillan&custom_title=Historial%20de%20Contribuciones&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&area=true&hide_border=true)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoAlejandroSantillan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAlejandroSantillan&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
+</p>
 
 ---
 
@@ -91,6 +96,9 @@ Sitio web profesional desarrollado para mostrar proyectos y habilidades técnica
 
 <a href="https://api.whatsapp.com/send?phone=524447207320" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://linkedin.com/in/RicardoAlejandroSantillan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.alejandrops.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
